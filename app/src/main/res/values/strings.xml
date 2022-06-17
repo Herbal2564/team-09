@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">餐點選擇小幫手</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next1_page">開始</string>
+    <string name="next2_page">決定好了</string>
+    <string name="next3_page">重新開始</string>
+    <string name="a1">無法決定自己想要吃什麼嗎?\n或許你可以試試看這個\n我們設計了一個能夠幫助\n迷失於茫茫食物大海中的你\n\n試試看吧 </string>
+</resources>
